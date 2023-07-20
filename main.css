@@ -1,0 +1,17 @@
+html,
+        body {
+            margin: 1;
+            padding: 1;
+        }
+
+        html {
+            font-size: 62.5%;
+            /* Set 1rem = 10px */
+            font-family: Arial, sans-serif;
+            /* Web-safe font */
+        }
+
+        body {
+            font-size: 1.8rem;
+            /* Reset default font size back to 16px in rem */
+        }
